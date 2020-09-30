@@ -1,4 +1,4 @@
-######## A Healthcare Domain Chatbot to simulate the predictions of a General Physician ########
+######## A Healthcare Domain Chatbot (using Machine Learnig with Python) to simulate the predictions of a General Physician ########
 ######## A pragmatic Approach for Diagnosis ############
 
 # Importing the libraries
